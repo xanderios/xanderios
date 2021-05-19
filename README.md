@@ -2,6 +2,7 @@
 
 A little about me:
 - 😄 Pronouns: Alex, Xande, Xandale
+- 👯 I’m looking to collaborate on GitHub Community
 - 📫 How to reach me: alexanderiosme@gmail.com
 - ⚡ Fun fact: I play the 🎹
 
