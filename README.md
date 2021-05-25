@@ -6,7 +6,7 @@ A little about me:
 - 😄 Pronouns: *Xande*
 - 👯 I’m looking to collaborate on *GitHub Community*
 - 📫 How to reach me: **alexanderiosme@gmail.com**
-- ⚡ Fun fact: I loved *Blooklyn 99*
+- ⚡ Fun fact: I loved *Blooklyn 99* 🎬
 
 <a href="https://github.com/xanderios">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderios&theme=dark&layout=compact" />
