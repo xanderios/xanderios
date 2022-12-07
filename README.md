@@ -6,7 +6,7 @@ A little about me:
 - 😄 Pronouns: *Xande*
 - 📫 How to reach me: **alexanderiosme@gmail.com**
 - 🙃 Fun fact: I can play Mario in the 🎹
-- 🎮 I love playing games: Minecraft, Apex Legends, Call of Duty, and many(many) more...
+- 🎮 I love playing games (whenever I can): Minecraft, Apex Legends, and many more...
 
 <a href="https://github.com/xanderios">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanderios&theme=dark&layout=compact" />
