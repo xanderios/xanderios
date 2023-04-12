@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alexandre</h1>
-<h3 align="center">I'm a 🇧🇷 Frontend Developer, and I ❤️ coding</h3>
+<h3 align="center">I'm a 🇧🇷 Fullstack Developer, and I ❤️ coding</h3>
 
 A little about me:
 - 🌱 I’m currently learning **[React Native](https://reactnative.dev/)**, **[Typescript](https://www.typescriptlang.org/)** and **UI/UX Design**.
