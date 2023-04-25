@@ -24,6 +24,6 @@
 </a>
 
 <p align="center">
-  <a href="https://xanderios.vercel.app">Personal Website</a>
-  <a href="https://www.linkedin.com/in/xanderios/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>
+  <a href="https://xanderios.vercel.app"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="Personal Website" height="32" width="32"></a>
+  <a href="https://www.linkedin.com/in/xanderios/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="32" width="32" /></a>
 </p>
