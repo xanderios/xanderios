@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexandre 👋</h1>
-<h3 align="center">Full-Stack Software Developer, Musician and gamer</h3>
+<h3 align="center">Full-Stack Software Developer</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=xanderios" alt="xanderios" /></p>
 
@@ -9,13 +9,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **[React Native](https://reactnative.dev/)**, **[Typescript](https://www.typescriptlang.org/)**.
+- 🌱 I’m currently learning **[Laravel](https://laravel.com/)** and **[PHP](https://www.php.net/)**.
 
 - 📫 How to reach me: **alexanderiosme@gmail.com** or my [Personal Website](https://xanderios.vercel.app)
 
-- 😃 Fun fact: I can play some musics on 🎹🎸
+- 😃 Fun fact: I love music so much that I know how to play 4 instruments (so far)
 
-- 🎮 I love playing games (whenever I can): mainly Minecraft <img style="height: 24px; width: 24px;" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/17/Grass_Block_%28graphics_fast%29_JE3.png/revision/latest?cb=20200831093828">
+- 🎮 I love playing games (mainly Minecraft) <img style="height: 24px; width: 24px;" src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/17/Grass_Block_%28graphics_fast%29_JE3.png/revision/latest?cb=20200831093828">
 
 <br>
 
