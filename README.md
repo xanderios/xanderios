@@ -8,7 +8,7 @@
   <span href=""><img src="https://komarev.com/ghpvc/?username=xanderios" alt="xanderios" /></span>
 </p>
 
-- 🌱 I’m currently learning **[Laravel](https://laravel.com/)** and **[PHP](https://www.php.net/)**.
+- 🌱 I’m currently learning about **AI** and **Web3**.
 - 📫 How to reach me: **alexanderiosme@gmail.com** or my [Personal Website](https://xanderios.vercel.app)
 - 😃 Fun fact: I love music so much that I know how to play 4 instruments (so far)
 - 🎮 I spend my leisure time with games, music, history, and finance.
