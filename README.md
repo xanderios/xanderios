@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexandre 👋</h1>
-<h3 align="center">Full-Stack Software Developer</h3>
+<h3 align="center">Senior Software Developer</h3>
 
 <p align="center">
   <span>
@@ -8,7 +8,7 @@
   <span href=""><img src="https://komarev.com/ghpvc/?username=xanderios" alt="xanderios" /></span>
 </p>
 
-- 🌱 I’m currently learning about **AI** and **Web3**.
+- 🌱 I’m always learning impressive topics about systems and technologies.
 - 📫 How to reach me: **alexanderiosme@gmail.com** or my [Personal Website](https://xanderios.vercel.app)
 - 😃 Fun fact: I love music so much that I know how to play 4 instruments (so far)
-- 🎮 I spend my leisure time with games, music, history, and finance.
+- 🎮 I spend my leisure time with games, music, books, and finance.
