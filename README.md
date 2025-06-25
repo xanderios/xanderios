@@ -8,7 +8,7 @@
   <span href=""><img src="https://komarev.com/ghpvc/?username=xanderios" alt="xanderios" /></span>
 </p>
 
-- 🌱 I’m always learning impressive topics about systems and technologies.
+- 🌱 I’m very curious about tech, and I'm always learning something impressive.
 - 📫 How to reach me: **alexanderiosme@gmail.com** or my [Personal Website](https://xanderios.vercel.app)
 - 😃 Fun fact: I love music so much that I know how to play 4 instruments (so far)
 - 🎮 I spend my leisure time with games, music, books, and finance.
