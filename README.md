@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Alexandre 👋</h1>
-<h3 align="center">Senior Software Developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&center=true&color=fafafa&duration=3000&lines=Senior+Software+Engineer;Code+Craftsman;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <span>
@@ -8,7 +9,7 @@
   <span href=""><img src="https://komarev.com/ghpvc/?username=xanderios" alt="xanderios" /></span>
 </p>
 
-- 🌱 I’m very curious about tech, and I'm always learning something impressive.
-- 📫 How to reach me: **alexanderiosme@gmail.com** or my [Personal Website](https://xanderios.vercel.app)
-- 😃 Fun fact: I love music so much that I know how to play 4 instruments (so far)
-- 🎮 I spend my leisure time with games, music, books, and finance.
+- 🌱 I’m very curious about tech, and I'm always learning something new.
+- 📫 How to reach me: alexanderiosme@gmail.com
+- 😃 Fun fact: I love music, so I play 4 instruments (so far 🎸🎹🥁🎻)
+- 🎬 I spend my leisure time watching stuff with family.
